@@ -1,4 +1,5 @@
 import spacy
+import json
 
 # Load the document into spaCy
 nlp = spacy.load("en_core_web_sm")
